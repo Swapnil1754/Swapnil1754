@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Foodie App](git@github.com:Swapnil1754/MyFoodie.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Swapnil1754](https://github.com/Swapnil1754)
 
 - 📫 How to reach me **swapnilsutar2010@gmail.com**
