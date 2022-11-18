@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Sutar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-
+<img src="https://user-images.githubusercontent.com/86115714/202660738-5a5f000d-fc57-4199-8082-1d5badccce16.gif" alt=""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil1754&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil1754" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1754" alt="swapnil1754" /></a> </p>
